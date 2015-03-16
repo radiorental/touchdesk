@@ -1,0 +1,1 @@
+4 wire resistive touch panel on a digital picture frame with images of buttons.  Connected to an arduino which converts x/y coords to triggers.  Connected to a Belkin Nostromo which talks to the OS
